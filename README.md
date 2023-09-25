@@ -1,1 +1,8 @@
-# naif
+[repository.tikipeter-1.0.2.zip](https://github.com/Naifops/naif/files/12712682/repository.tikipeter-1.0.2.zip)
+[repository.thecrew-0.3.4.zip](https://github.com/Naifops/naif/files/12712681/repository.thecrew-0.3.4.zip)
+[repository.swagotaku-0.0.2.zip](https://github.com/Naifops/naif/files/12712680/repository.swagotaku-0.0.2.zip)
+[repository.umbrella-2.2.4.zip](https://github.com/Naifops/naif/files/12712684/repository.umbrella-2.2.4.zip)
+[service.subtitles.subscene-2.1.4.zip](https://github.com/Naifops/naif/files/12712688/service.subtitles.subscene-2.1.4.zip)
+[service.subtitles.opensubtitles_by_opensubtitles_dualsub-5.5.1.zip](https://github.com/Naifops/naif/files/12712687/service.subtitles.opensubtitles_by_opensubtitles_dualsub-5.5.1.zip)
+[a4kSubtitles-repository.zip](https://github.com/Naifops/naif/files/12712686/a4kSubtitles-repository.zip)
+[repository.cocoscrapers-1.0.0.zip](https://github.com/Naifops/naif/files/12712690/repository.cocoscrapers-1.0.0.zip)
