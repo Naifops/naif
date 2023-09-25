@@ -1,4 +1,4 @@
-[Uploading repository.cocoscrapers-1.0.0.zip…]()
+
 [service.subtitles.subscene-2.1.4.zip](https://github.com/Naifops/naif/files/12712738/service.subtitles.subscene-2.1.4.zip)
 [service.subtitles.opensubtitles_by_opensubtitles_dualsub-5.5.1.zip](https://github.com/Naifops/naif/files/12712736/service.subtitles.opensubtitles_by_opensubtitles_dualsub-5.5.1.zip)
 [a4kSubtitles-repository.zip](https://github.com/Naifops/naif/files/12712735/a4kSubtitles-repository.zip)
